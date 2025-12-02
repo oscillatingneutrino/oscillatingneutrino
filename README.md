@@ -10,6 +10,10 @@ I am a Physics major from California State Polytechnic University, Pomona.
 <!--
 **oscillatingneutrino/oscillatingneutrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+## Connect with me:
+
+[LinkedIn](https://www.linkedin.com/in/jesus-c-86348511b/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
