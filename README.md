@@ -5,15 +5,16 @@ I am Jesus Castillo
 I am a Physics major from California State Polytechnic University, Pomona.
 
 
+## Connect with me:
 
-<h2> Data Analysis Projects:</h2>
+[linkedin](https://www.linkedin.com/in/jesus-c-86348511b/)
+
 <!--
 **oscillatingneutrino/oscillatingneutrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-## Connect with me:
+<h2> Data Analysis Projects:</h2>
 
-[LinkedIn](https://www.linkedin.com/in/jesus-c-86348511b/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
